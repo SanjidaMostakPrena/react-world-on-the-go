@@ -1,7 +1,7 @@
 function Countries() {
     return (
         <div>
-            <h1>IN THE COUNTRIES </h1>
+            <h1>IN THE COUNTRIES GO </h1>
         </div>
     )
 }
